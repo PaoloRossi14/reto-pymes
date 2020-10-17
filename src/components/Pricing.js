@@ -13,7 +13,7 @@ function Pricing() {
       <div>
         <div className="pricing__section">
           <div className="pricing__wrapper">
-            <h1 className="pricing__heading">Pricing</h1>
+            <h1 className="pricing__heading">Planes</h1>
             <div className="pricing__container">
               <Link to="/sign-up" className="pricing__container-card">
                 <div className="pricing__container-cardInfo">
@@ -29,7 +29,7 @@ function Pricing() {
                     <li>$10,000 Limit</li>
                   </ul>
                   <Button buttonSize="btn--wide" buttonStyle="btn--outline">
-                    Choose Plan
+                    Evalúate
                   </Button>
                 </div>
               </Link>
@@ -47,7 +47,7 @@ function Pricing() {
                     <li>$100,000 Limit</li>
                   </ul>
                   <Button buttonSize="btn--wide" buttonStyle="btn--outline">
-                    Choose Plan
+                    Evalúate
                   </Button>
                 </div>
               </Link>
@@ -65,7 +65,7 @@ function Pricing() {
                     <li>Unlimit Spending</li>
                   </ul>
                   <Button buttonSize="btn--wide" buttonStyle="btn--outline">
-                    Choose Plan
+                    Evalúate
                   </Button>
                 </div>
               </Link>
