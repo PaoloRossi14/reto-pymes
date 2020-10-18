@@ -59,7 +59,7 @@ function NavBar() {
                   className="nav-links"
                   onClick={closeMobileMenu}
                 >
-                  Productos
+                  Simulador
                 </Link>
               </li>
               <li className="nav-btn">

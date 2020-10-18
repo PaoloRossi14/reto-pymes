@@ -7,11 +7,11 @@ function Form() {
         <>
         <div className="form__container">
             <div className="form-content-left">
-                <img src="images/online-payments.svg" className="form-img"/>
+                <img src="images/online-payments.svg" className="form-img" alt="form-img"/>
             </div>
             <div className="form-content-right">
                 <form className="form">
-                    <h1>Form para clientes</h1>
+                    <h1>Consulta si eres apto!</h1>
                     <div className="form-inputs">
                         <label htmlFor="username" className="form-label">
                             Usuario:   
